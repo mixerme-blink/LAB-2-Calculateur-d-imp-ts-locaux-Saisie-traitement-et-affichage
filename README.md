@@ -1,1 +1,2 @@
 # LAB-2-Calculateur-d-imp-ts-locaux-Saisie-traitement-et-affichage
+Préparé par: LAHNINE Malak
